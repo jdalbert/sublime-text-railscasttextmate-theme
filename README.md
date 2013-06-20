@@ -1,4 +1,6 @@
-# RailsCast+Textmate theme
+# RailsCast+Textmate theme for Sublime Text
+
+<img src="http://i.imgur.com/DT1tq0x.png" border="0">
 
 I was not satisfied with available Railscast color schemes for Sublime Text on OS X. Colors were darker than on Textmate !
 I also missed parts of the Textmate look and feel : neat grey gutter, classy grey tabs, etc.
