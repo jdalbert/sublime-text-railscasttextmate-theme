@@ -7,6 +7,10 @@ I also missed parts of the Textmate look and feel : neat grey gutter, classy gre
 
 Here is my attempt to fix these issues.
 
+## Prerequisites
+
+Install the [Soda theme](https://github.com/buymeasoda/soda-theme).
+
 ## Installation
 
 In your Sublime `Packages` folder, type:
